@@ -6,3 +6,10 @@ Try:
 
 	LampSort new sort: 	#(7 12 3 20 5 8 2) copy.
 		
+Read more:
+
+	https://medium.com/@svenvc/lampsort-a-non-recursive-quicksort-implementation-4d4891b217bd
+	http://bertrandmeyer.com/2014/12/07/lampsort/
+	https://github.com/svenvc/lampsort
+
+		
