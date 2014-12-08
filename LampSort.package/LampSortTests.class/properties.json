@@ -1,0 +1,14 @@
+{
+	"category" : "LampSort",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SvenVanCaekenberghe 12/8/2014 12:52",
+	"instvars" : [
+		 ],
+	"name" : "LampSortTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

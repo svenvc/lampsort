@@ -1,0 +1,14 @@
+{
+	"category" : "LampSort",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SvenVanCaekenberghe 12/8/2014 13:17",
+	"instvars" : [
+		"data" ],
+	"name" : "LampSort",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
