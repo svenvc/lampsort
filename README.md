@@ -14,3 +14,8 @@ QuickSort loops, starting from the whole data interval,
 replacing it with consecutively smaller sub intervals, 
 until only one element or empty intervals are left, which are sorted by definition. 
 
+For more information:
+- https://medium.com/@svenvc/lampsort-a-non-recursive-quicksort-implementation-4d4891b217bd
+- http://bertrandmeyer.com/2014/12/07/lampsort/
+- http://pharo.org
+
