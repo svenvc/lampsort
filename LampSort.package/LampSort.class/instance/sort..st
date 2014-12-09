@@ -1,4 +1,4 @@
-initialize
+public
 sort: sequenceableCollection
 	^ self 
 		data: sequenceableCollection;

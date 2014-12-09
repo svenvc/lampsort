@@ -1,4 +1,4 @@
-accessing
+public
 sort
 	| intervals one |
 	intervals := Set with: (1 to: data size).

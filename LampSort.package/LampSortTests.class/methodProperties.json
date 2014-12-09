@@ -2,9 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testArbitrary" : "SvenVanCaekenberghe 12/8/2014 13:03",
-		"testEmpty" : "SvenVanCaekenberghe 12/8/2014 12:56",
-		"testInverseSorted" : "SvenVanCaekenberghe 12/8/2014 12:57",
-		"testOne" : "SvenVanCaekenberghe 12/8/2014 12:56",
-		"testRandom" : "SvenVanCaekenberghe 12/8/2014 13:04",
-		"testSorted" : "SvenVanCaekenberghe 12/8/2014 12:57" } }
+		"sort:" : "SvenVanCaekenberghe 12/8/2014 20:38",
+		"testArbitrary" : "SvenVanCaekenberghe 12/8/2014 20:38",
+		"testEmpty" : "SvenVanCaekenberghe 12/8/2014 20:39",
+		"testInverseSorted" : "SvenVanCaekenberghe 12/8/2014 20:39",
+		"testOne" : "SvenVanCaekenberghe 12/8/2014 20:39",
+		"testRandom" : "SvenVanCaekenberghe 12/8/2014 20:39",
+		"testSorted" : "SvenVanCaekenberghe 12/8/2014 20:39" } }

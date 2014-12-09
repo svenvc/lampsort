@@ -1,5 +1,5 @@
 testing
 testEmpty
 	self 
-		assert: (LampSort new sort: Array new) 
+		assert: (self sort: Array new) 
 		equals: #()

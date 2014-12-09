@@ -1,5 +1,5 @@
 testing
 testOne
 	self 
-		assert: (LampSort new sort: (Array with: 1)) 
+		assert: (self sort: (Array with: 1)) 
 		equals: #(1)
