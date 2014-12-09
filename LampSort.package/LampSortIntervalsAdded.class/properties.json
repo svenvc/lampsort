@@ -1,0 +1,14 @@
+{
+	"category" : "LampSort-Instrumented",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SvenVanCaekenberghe 12/8/2014 22:16",
+	"instvars" : [
+		"newIntervals" ],
+	"name" : "LampSortIntervalsAdded",
+	"pools" : [
+		 ],
+	"super" : "LampSortIntervalsLogEvent",
+	"type" : "normal" }

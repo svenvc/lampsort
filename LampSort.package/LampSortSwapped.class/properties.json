@@ -1,0 +1,15 @@
+{
+	"category" : "LampSort-Instrumented",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SvenVanCaekenberghe 12/8/2014 22:23",
+	"instvars" : [
+		"oneIndex",
+		"anotherIndex" ],
+	"name" : "LampSortSwapped",
+	"pools" : [
+		 ],
+	"super" : "LampSortLogEvent",
+	"type" : "normal" }

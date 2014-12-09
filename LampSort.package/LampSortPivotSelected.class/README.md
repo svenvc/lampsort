@@ -1,0 +1,1 @@
+A LampSortPivotSelected is logged when the LampSort algorithm selects a pivot from an interval. The current implementation always selects the first element.

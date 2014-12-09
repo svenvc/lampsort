@@ -1,0 +1,3 @@
+accessing
+pivotIndex
+	^ interval first

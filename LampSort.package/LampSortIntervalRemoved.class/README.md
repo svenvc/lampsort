@@ -1,0 +1,1 @@
+LampSortIntervalRemoved is logged when the LampSort algorithm removes the interval is was working on from its interval set. This happens after the interval is partitioned (LampSortIntervalPartitioned) and both the left and right partition are added to the intervals set (LampSortIntervalsAdded).

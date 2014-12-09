@@ -1,0 +1,14 @@
+{
+	"category" : "LampSort-Instrumented",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LampSortLogEventAnnouncer" ],
+	"commentStamp" : "SvenVanCaekenberghe 12/8/2014 22:09",
+	"instvars" : [
+		"data" ],
+	"name" : "LampSortLogEvent",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }
