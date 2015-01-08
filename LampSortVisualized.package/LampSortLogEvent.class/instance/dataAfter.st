@@ -1,0 +1,3 @@
+accessing
+dataAfter
+	^ self data

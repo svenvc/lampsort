@@ -1,0 +1,14 @@
+{
+	"category" : "LampSortVisualized",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SvenVanCaekenberghe 12/9/2014 10:32",
+	"instvars" : [
+		"data" ],
+	"name" : "LampSortInstrumented",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

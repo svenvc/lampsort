@@ -1,0 +1,2 @@
+gt-inspector
+highlight: view

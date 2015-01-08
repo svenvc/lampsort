@@ -1,0 +1,14 @@
+{
+	"category" : "LampSortVisualized-LogEvents",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SvenVanCaekenberghe 12/8/2014 22:16",
+	"instvars" : [
+		"interval" ],
+	"name" : "LampSortIntervalDropped",
+	"pools" : [
+		 ],
+	"super" : "LampSortIntervalsLogEvent",
+	"type" : "normal" }
