@@ -6,6 +6,6 @@ sort
 		whileFalse: [ 
 			one := self selectIntervalFrom: intervals.
 			one size > 1
-				ifTrue: [ self joinIntervals: intervals with: (self partition: one) ]
-				ifFalse: [ self dropInterval: one from: intervals ].
+				ifTrue: [ 
+					self joinIntervals: intervals with: (self partition: one) ].
 			self removeInterval: one from: intervals ]

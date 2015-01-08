@@ -1,1 +1,0 @@
-A LampSortIntervalDropped is logged when the LampSort algorithm drops one interval from the intervals working set. This happens with intervals that are empty or contain only one element.

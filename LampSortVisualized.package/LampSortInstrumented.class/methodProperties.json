@@ -4,13 +4,12 @@
 	"instance" : {
 		"data" : "SvenVanCaekenberghe 12/8/2014 20:36",
 		"data:" : "SvenVanCaekenberghe 12/8/2014 20:36",
-		"dropInterval:from:" : "SvenVanCaekenberghe 12/8/2014 23:06",
 		"joinIntervals:with:" : "SvenVanCaekenberghe 12/8/2014 22:27",
 		"partition:" : "SvenVanCaekenberghe 12/8/2014 21:42",
 		"removeInterval:from:" : "SvenVanCaekenberghe 12/8/2014 22:29",
 		"selectFirstElementAsPivot:" : "SvenVanCaekenberghe 12/8/2014 22:31",
 		"selectIntervalFrom:" : "SvenVanCaekenberghe 12/8/2014 22:30",
-		"sort" : "SvenVanCaekenberghe 12/8/2014 23:07",
+		"sort" : "SvenVanCaekenberghe 1/8/2015 12:57",
 		"sort:" : "SvenVanCaekenberghe 12/8/2014 20:36",
 		"splitInterval:around:" : "SvenVanCaekenberghe 12/8/2014 22:33",
 		"swap:with:" : "SvenVanCaekenberghe 12/8/2014 22:33" } }

@@ -1,4 +1,4 @@
 gt-inspector
 highlight: view
-	(view elementFromModel: self one) color: Color red.
-	(view elementFromModel: self another) color: Color green.
+	(self elementFrom: view at: self oneIndex) color: Color red.
+	(self elementFrom: view at: self anotherIndex) color: Color green.
