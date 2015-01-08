@@ -19,3 +19,6 @@ For more information:
 - http://bertrandmeyer.com/2014/12/07/lampsort/
 - http://pharo.org
 
+====
+
+LampSortVisualized should be loaded on top of LampSort. It is an experimental package that requires Roassal2. It is easiest to load it in a Moose 5 image based on Pharo 4.
