@@ -21,4 +21,11 @@ For more information:
 
 ====
 
-LampSortVisualized should be loaded on top of LampSort. It is an experimental package that requires Roassal2. It is easiest to load it in a Moose 5 image based on Pharo 4.
+LampSortInstrumented is a version of LampSort that generates LampSortLogEvent objects while it runs. These log event object can be used to better understand the algorithm. 
+
+LampSortVisualized should be loaded on top of LampSort. It is an experimental package that requires Roassal2. It is easiest to load it in a Moose 5.1 image based on Pharo 4.
+
+Please refer to the following article for more information:
+
+- https://medium.com/concerning-pharo/lampsort-revisited-visualised-6652055ef858
+

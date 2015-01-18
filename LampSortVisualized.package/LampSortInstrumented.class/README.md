@@ -15,3 +15,7 @@ Try:
 	LampSortLogEvent announcer inspect.
 
 	LampSortInstrumented new sort: #(7 12 3 20 5 8 2) copy.
+	
+You can read the following article for more information
+
+	https://medium.com/concerning-pharo/lampsort-revisited-visualised-6652055ef858
