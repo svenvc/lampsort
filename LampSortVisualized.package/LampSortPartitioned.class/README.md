@@ -1,1 +1,1 @@
-A LampSortPartitioned is logged when the LampSort algorithm finished partitioning an interval in 2 sub intervals, left and right.
+LampSortPartitioned is logged when the LampSort algorithm finished partitioning an interval in 2 sub intervals, left and right.

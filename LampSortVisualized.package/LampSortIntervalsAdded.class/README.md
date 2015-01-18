@@ -1,1 +1,1 @@
-A LampSortIntervalsAdded is logged when new intervals are added to the intervals set by the LampSort algorithm.
+LampSortIntervalsAdded is logged when new intervals are added to the intervals set by the LampSort algorithm.

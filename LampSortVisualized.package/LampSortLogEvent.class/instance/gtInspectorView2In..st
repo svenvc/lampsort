@@ -5,4 +5,3 @@ gtInspectorView2In: composite
 		title: 'View2';
 		initializeView: [ RTGrapher new ];
 		painting: [ :builder | self chartViewWith: builder ]
-		

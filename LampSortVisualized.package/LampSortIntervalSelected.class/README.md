@@ -1,1 +1,1 @@
-A LampSortIntervalDropped is logged when the LampSort algorithm selects one interval from the intervals set to work on.
+LampSortIntervalSelected is logged when the LampSort algorithm selects one interval from the intervals set to work on.

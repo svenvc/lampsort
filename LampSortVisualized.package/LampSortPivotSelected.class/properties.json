@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "SvenVanCaekenberghe 12/8/2014 22:22",
+	"commentStamp" : "SvenVanCaekenberghe 1/18/2015 18:16",
 	"instvars" : [
 		"interval" ],
 	"name" : "LampSortPivotSelected",
